@@ -2,6 +2,6 @@
 simple two player game with pygame
 
 just run the code
-features:
-  the little cubes called bonus
-  some field 
+with features like
+  the little cubes called bonus, 
+  random field of game
